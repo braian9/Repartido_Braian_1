@@ -1,0 +1,23 @@
+body {
+    background-color:   rgb(0, 0, 0);
+    color:rgb(218, 165, 32); 
+    background-image: url();
+}
+  
+  h2 {
+    background-color: rgb(0, 0, 0);
+    color:  #d3c226d5
+
+  }
+  
+  div {
+    background-color: red;
+    color:aqua;
+  }
+  .parrafoBold{
+      font-family: 'Courier New', Courier, monospace;
+      width: 300px
+  }
+  #italica 
+  font-style: italica
+      

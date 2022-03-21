@@ -1,0 +1,13 @@
+.tableficha{
+    width: 60%;
+    margin: auto;
+    text-align:center;
+  }
+  .tabletitulo{
+    color: #fff;
+    background: #0E5FF1;
+    font-weight: bold;
+  }
+  .tableficha tr{
+    font-weight: bold;
+  }
